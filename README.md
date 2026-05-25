@@ -1,4 +1,5 @@
-Om meg 
+@Om meg. 
+
 Jeg heter Guleed og er for tiden IT-student ved Universitetet i Sørøst-Norge (USN). Jeg har som mål å bli utvikler, og jobber gradvis mot dette ved å lære meg ulike teknologispråk og bygge egne prosjekter ved siden av studiene.
 
 Jeg har jobbet med flere skoleprosjekter og egne utviklingsprosjekter som full-stack utvikler. Blant annet har jeg utviklet nettsider for Campino og Turistnet, bygget med React og Node.js.
